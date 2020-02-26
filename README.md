@@ -11,7 +11,7 @@ https://wiki.lghs.be/projets:mate-matrix
 
 Clone this repo with submodules to import fadecandy: 
 
-`git clone --recursive git@github.com:LgHS/mate-matrix.git`
+`git clone --recursive git@github.com:Manu404/mate-matrix.git`
 
 Run fadecandy with a pre-existing config:
 
