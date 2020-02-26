@@ -1,4 +1,4 @@
-# mate-matrix
+# mate-matrix - TELE Project
 
 Mate Matrix is a LED display made with bottles of Club Mate.
 
