@@ -1,4 +1,4 @@
-# mate-matrix - TELE Project
+# tele-matrix
 
 Fork from LGHS project, doc available here: https://wiki.lghs.be/projets:mate-matrix 
 
