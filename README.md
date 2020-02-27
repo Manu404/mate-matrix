@@ -1,11 +1,10 @@
 # mate-matrix - TELE Project
 
+Fork from LGHS project, doc available here: https://wiki.lghs.be/projets:mate-matrix 
+
 Mate Matrix is a LED display made with bottles of Club Mate.
 
 It's based on Fadecandy and Open Pixel Control.
-
-More info on our wiki (FR): 
-https://wiki.lghs.be/projets:mate-matrix 
 
 ## How to use
 
@@ -106,3 +105,8 @@ Remove comments before use.
   }
 }
 ```
+
+### Gr33tz
+
+From LGHS: Ionner, Greg, Jon', Radislav, Emilien
+And also Carlo, Hugh, and my wife (without whom I would have rage quit this project a long time ago <3)
